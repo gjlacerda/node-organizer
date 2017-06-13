@@ -1,0 +1,22 @@
+{
+  "name": "node-organizer",
+  "version": "1.0.0",
+  "description": "Organize your files into a classified folder structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjlacerda/node-organizer.git"
+  },
+  "author": "Guilherme Lacerda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjlacerda/node-organizer/issues"
+  },
+  "homepage": "https://github.com/gjlacerda/node-organizer#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
