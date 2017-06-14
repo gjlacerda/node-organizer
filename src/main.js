@@ -1,6 +1,6 @@
 const Archive  = require('./classes/Archive'),
       Document = require('./classes/Document'),
-      Movie    = require('./classes/Music'),
+      Movie    = require('./classes/Movie'),
       Music    = require('./classes/Music'),
       Picture  = require('./classes/Picture'),
       types    = [

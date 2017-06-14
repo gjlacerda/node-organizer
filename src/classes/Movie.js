@@ -1,6 +1,6 @@
 const File = require('./File');
 
-class Movies extends File {
+class Movie extends File {
 
     constructor() {
         super({
@@ -10,4 +10,4 @@ class Movies extends File {
     }
 }
 
-module.exports = Movies;
+module.exports = Movie;
