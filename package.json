@@ -1,6 +1,6 @@
 {
   "name": "node-organizer",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Organize your files into a classified folder structure",
   "main": "src/main.js",
   "bin": "src/main.js",
@@ -17,7 +17,8 @@
     "url": "https://github.com/gjlacerda/node-organizer/issues"
   },
   "homepage": "https://github.com/gjlacerda/node-organizer#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "fs": "0.0.1-security"
   }
 }
