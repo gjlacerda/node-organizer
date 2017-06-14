@@ -5,7 +5,7 @@ class Music extends File {
     constructor() {
         super({
             dirName: 'Musics',
-            extensions: ['mp3', 'flac', 'wav']
+            extensions: ['mp3', 'flac', 'wav', 'ogg']
         });
     }
 }

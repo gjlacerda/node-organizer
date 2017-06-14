@@ -5,7 +5,7 @@ class Movie extends File {
     constructor() {
         super({
             dirName: 'Movies',
-            extensions: ['mp4', 'mkv', 'wmv']
+            extensions: ['mp4', 'mkv', 'wmv', 'mov', 'avi']
         });
     }
 }
