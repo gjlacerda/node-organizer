@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 const File = require('./File');
 
 class Music extends File {
