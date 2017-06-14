@@ -1,8 +1,9 @@
 {
   "name": "node-organizer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Organize your files into a classified folder structure",
   "main": "src/main.js",
+  "bin": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
