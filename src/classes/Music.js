@@ -3,10 +3,9 @@ const File = require('./File');
 class Music extends File {
 
     constructor() {
-
         super({
-            dirName: 'Music',
-            extensions: ['mp3', 'flac']
+            dirName: 'Musics',
+            extensions: ['mp3', 'flac', 'wav']
         });
     }
 }

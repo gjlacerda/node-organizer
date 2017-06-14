@@ -1,5 +1,5 @@
-const Music   = require('./Music');
-const Picture = require('./Picture');
+const Music   = require('./classes/Music');
+const Picture = require('./classes/Picture');
 const types   = [
     new Music(),
     new Picture()

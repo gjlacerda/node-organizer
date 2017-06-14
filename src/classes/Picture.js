@@ -4,8 +4,8 @@ class Picture extends File {
 
     constructor() {
         super({
-            dirName: 'Picture',
-            extensions: ['jpg', 'jpeg', 'png']
+            dirName: 'Pictures',
+            extensions: ['jpg', 'jpeg', 'png', 'gif']
         });
     }
 }
