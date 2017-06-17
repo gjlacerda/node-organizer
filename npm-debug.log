@@ -48,9 +48,9 @@
 23 silly publish   devDependencies: { fs: '0.0.1-security' },
 23 silly publish   readme: '# node-organizer\nOrganize your files into a classified folder structure\n\nBefore:\n![](http://i.imgur.com/EyrjiYu.png)\n\nAfter:\n![](http://i.imgur.com/bh17cM4.png)\n\n## Installation\n```bash\n$ npm install -g node-organizer\n```\n\n## Usage\n```bash\n$ node-organizer\n```',
 23 silly publish   readmeFilename: 'README.md',
-23 silly publish   gitHead: 'd9e1d76b591c9e49f3328d9f25a05bfaa85f3623',
+23 silly publish   gitHead: '76e51e94db12c7bcd23c0b66eb631437892f08b4',
 23 silly publish   _id: 'node-organizer@1.0.10',
-23 silly publish   _shasum: 'f417257c1b83ad3a8dcb85512bf9455e37834355',
+23 silly publish   _shasum: '60472e3dadcf2ec75aeff0dd3682ae55c4045d9c',
 23 silly publish   _from: '.' }
 24 info lifecycle node-organizer@1.0.10~prepublishOnly: node-organizer@1.0.10
 25 silly lifecycle node-organizer@1.0.10~prepublishOnly: no script for prepublishOnly, continuing
@@ -71,22 +71,22 @@
 33 silly publish uploading /Users/guilherme/.npm/node-organizer/1.0.10/package.tgz
 34 verbose request uri https://registry.npmjs.org/node-organizer
 35 verbose request sending authorization for write operation
-36 info attempt registry request try #1 at 10:07:48 PM
+36 info attempt registry request try #1 at 10:08:55 PM
 37 verbose request using bearer token for auth
-38 verbose request id fafe61878baed9ec
+38 verbose request id 1888618feace1f9a
 39 http request PUT https://registry.npmjs.org/node-organizer
 40 http 403 https://registry.npmjs.org/node-organizer
 41 verbose headers { 'content-type': 'application/json',
 41 verbose headers   'cache-control': 'max-age=300',
 41 verbose headers   'content-length': '96',
 41 verbose headers   'accept-ranges': 'bytes',
-41 verbose headers   date: 'Sat, 17 Jun 2017 01:07:49 GMT',
+41 verbose headers   date: 'Sat, 17 Jun 2017 01:08:57 GMT',
 41 verbose headers   via: '1.1 varnish',
 41 verbose headers   connection: 'keep-alive',
-41 verbose headers   'x-served-by': 'cache-gru7123-GRU',
+41 verbose headers   'x-served-by': 'cache-gru7126-GRU',
 41 verbose headers   'x-cache': 'MISS',
 41 verbose headers   'x-cache-hits': '0',
-41 verbose headers   'x-timer': 'S1497661669.128610,VS0,VE826',
+41 verbose headers   'x-timer': 'S1497661737.020537,VS0,VE838',
 41 verbose headers   vary: 'Accept-Encoding' }
 42 verbose request invalidating /Users/guilherme/.npm/registry.npmjs.org/node-organizer on PUT
 43 error publish Failed PUT 403
