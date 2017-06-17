@@ -5,7 +5,7 @@ class App extends File {
     constructor() {
         super({
             dirName: 'Apps',
-            extensions: ['exe', 'dmg']
+            extensions: ['exe', 'dmg', 'pkg']
         });
     }
 }
