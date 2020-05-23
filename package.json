@@ -1,6 +1,6 @@
 {
   "name": "node-organizer",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Organize your files into a classified folder structure",
   "main": "src/main.js",
   "bin": "src/main.js",
